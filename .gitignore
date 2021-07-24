@@ -1,0 +1,17 @@
+ # Class Content
+    Main/ 
+    Solved/
+    # 07-*/
+    # 08-*/
+    # # ... // and so on...
+    # 24-*/
+
+    # !01-*/**/Main
+    # !01-*/01-Activities/**/Solved
+    # !02-*/**/Main
+    # !02-*/01-Activities/**/Solved
+    # # ... // and so on...
+    # !06-*/01-Activities/**/Solved
+    # !06-*/01-Activities/**/Main
+
+    # # !01-*/01-Activities/**/0[0-9]*/Main
