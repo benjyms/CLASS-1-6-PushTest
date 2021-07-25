@@ -5,12 +5,12 @@ TimeTracker.xlsx
 
 Activities/
 Solved/
-!01-*/**/Activities/*.Ins*/
+!01-*/**/Activities/??-Ins*/
+# !01-*/**/*-Ins*
 
 
 
-# !01-*/[1-2]/Activities/
-# !*Ins*/Solved
+# !01-*/[1-2]/Activities/# !*Ins*/Solved
 # **/logs/debug.log
 # !*/*Ins*/Solved/
 
