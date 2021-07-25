@@ -1,0 +1,2 @@
+client = "WNCXmzzLWdZOXLZg1d7b4A"
+api_key = "4xl_G-eXvZq4TAgA6YoBd4aXtJKO7tBdh6iGeFnZfwdxpIsPBLCzUXIzYRkRgb57cJZ_bHGF43HZMDhA4tnXeVW2zczdzDNaRWaK4zNze6l5u2lwGLuvC-yg26z8YHYx"
