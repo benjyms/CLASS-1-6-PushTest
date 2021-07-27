@@ -6,10 +6,12 @@ Solved/
 Activities/
 Images/
 Solutions/
-README.md
+Extra/
 # Exclude specific Solved folder content
-!**/*-Ins*/Solved/*
-!01-*/
+# !**/*-Ins*/Solved/*
+!01-*/*-Ins*/Solved/*
+!01-*/*
+# !01-Excel/*/Activities/02-Stu_Predict_Gentrification/Solved/*
 02-*/
 03-*/
 04-*/
