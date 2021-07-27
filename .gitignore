@@ -1,11 +1,13 @@
 # Class Content
 .DS_Store
 LessonPlan.md
-TimeTracker.xlsx
+TimeTracker*.xlsx
 Solved/
 Activities/
 Images/
+Solutions/
 # Exclude specific Solved folder content
+!**/*-Ins*/Solved/*
 !01-*/
 02-*/
 03-*/
@@ -30,7 +32,6 @@ Images/
 22-*/
 23-*/
 24-*/
-!**/*-Ins*/Solved/**
 
 
 
