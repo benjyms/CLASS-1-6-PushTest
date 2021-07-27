@@ -6,6 +6,7 @@ Solved/
 Activities/
 Images/
 Solutions/
+readme.md
 # Exclude specific Solved folder content
 !**/*-Ins*/Solved/*
 !01-*/
