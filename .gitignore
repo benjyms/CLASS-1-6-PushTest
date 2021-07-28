@@ -2,39 +2,40 @@
 .DS_Store
 LessonPlan.md
 TimeTracker*.xlsx
-Solved/
-Activities/
-Images/
-Solutions/
-Extra/
-# Exclude specific Solved folder content
-# !**/*-Ins*/Solved/*
-!01-*/*-Ins*/Solved/*
-!01-*/*
-# !01-Excel/*/Activities/02-Stu_Predict_Gentrification/Solved/*
-02-*/
-03-*/
-04-*/
-05-*/
-06-*/
-07-*/
-08-*/
-09-*/
-10-*/
-11-*/
-12-*/
-13-*/
-14-*/
-15-*/
-16-*/
-17-*/
-18-*/
-19-*/
-20-*/
-21-*/
-22-*/
-23-*/
-24-*/
+# Solved/
+# Activities/
+# Images/
+# Solutions/
+# Extra/
+# # Exclude specific Solved folder content
+# # !**/*-Ins*/Solved/*
+# !01-*/*-Ins*/Solved/*
+# !01-*/*-Stu*/Solved/*
+# # !01-*/*
+# # !01-Excel/*/Activities/02-Stu_Predict_Gentrification/Solved/*
+# 02-*/
+# 03-*/
+# 04-*/
+# 05-*/
+# 06-*/
+# 07-*/
+# 08-*/
+# 09-*/
+# 10-*/
+# 11-*/
+# 12-*/
+# 13-*/
+# 14-*/
+# 15-*/
+# 16-*/
+# 17-*/
+# 18-*/
+# 19-*/
+# 20-*/
+# 21-*/
+# 22-*/
+# 23-*/
+# 24-*/
 
 
 
@@ -67,20 +68,3 @@ Extra/
 
 # Here's a little snippet from my current class where you can see the top portion protects future content from being released too early, the middle portion reveals the solutions as we finish each unit. In this example, my class has finished units 1-6, and unit 1 and 2 have received their grades for their homework, but unit 6 homework is still ungraded. The last portion is a comment example for how I would release activities to solutions a little bit at a time:
 # ```md
-    # # Class Content
-    # Main/ 
-    # Solved/
-    # 07-*/
-    # 08-*/
-    # # ... // and so on...
-    # 24-*/
-
-    # !01-*/**/Main
-    # !01-*/01-Activities/**/Solved
-    # !02-*/**/Main
-    # !02-*/01-Activities/**/Solved
-    # # ... // and so on...
-    # !06-*/01-Activities/**/Solved
-    # !06-*/01-Activities/**/Main
-
-    # # !01-*/01-Activities/**/0[0-9]*/Main
